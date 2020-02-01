@@ -1,7 +1,7 @@
 # Starter Web Repo
 this is a simple repo for git learning
 ## Introduction
-this is a simple intro
+this is a simple intro now modified
 ## Purpose
 this is purpose
 ## How to Contribute
