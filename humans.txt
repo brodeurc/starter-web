@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Carl Brodeur carl@carl.com
 
 # THANKS
 
